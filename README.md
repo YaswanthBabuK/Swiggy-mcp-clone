@@ -130,42 +130,4 @@ This project demonstrates:
 * Integrate with real LLM clients
 * Add test coverage
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👤 Author
-
-**Yaswanth Babu Kamepalli**
-Aspiring **GenAI & Agentic AI Developer**
-
-🔗 GitHub: [https://github.com/YaswanthBabuK](https://github.com/YaswanthBabuK)
-
-````
-
----
-
-## ✅ What to do next
-
-1. Save this as **README.md**
-2. Run:
-```bash
-git add README.md
-git commit -m "Add detailed project README"
-git push
-````
-
----
-
-If you want, I can also:
-
-* 🔥 Rewrite this for **internship applications**
-* 🎯 Add **architecture diagram**
-* 🧠 Make it **ATS / recruiter optimized**
-* 🤖 Add **example MCP tool calls**
-
-Just tell me 👍
